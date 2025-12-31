@@ -6,3 +6,4 @@ class Patient(BaseModel):
     height:float
     weight:int
 
+
